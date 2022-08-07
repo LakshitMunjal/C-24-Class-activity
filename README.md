@@ -1,1 +1,2 @@
-# C-24-Class-activity
+# C20_boilerplate
+boilerplate for teacher activity
